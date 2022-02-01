@@ -1,2 +1,2 @@
-# qr-nus
+# qr-bus
 Pay with QR
